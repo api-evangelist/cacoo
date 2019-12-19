@@ -1,0 +1,78 @@
+{
+    "name": "Cacoo",
+    "description": "Online diagram software to create and securely share flowcharts, wireframes, UML models, network diagram and more. Over 2.5 million users. Start with a Free account!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/553-cacoo.jpg",
+    "tags": [
+        "api not found",
+        "api service provider",
+        "charts",
+        "diagram",
+        "diagramming",
+        "diagrams",
+        "have api",
+        "office"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/cacoo\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Cacoo",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/553-cacoo.jpg",
+            "humanURL": "https:\/\/cacoo.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cacoo-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cacoo-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/cacoo.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/nulab-inc.com\/blog\/cacoo\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/nulab-inc.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/cacoo"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/cacoo"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/cacoo.com\/lang\/en\/api?ref=footer"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/cacoo"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/cacoocom"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/cacoo.com"
+        }
+    ]
+}
